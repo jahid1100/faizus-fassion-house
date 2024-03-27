@@ -1,0 +1,17 @@
+.carts-container{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 10px;
+}
+.cart-name-price-container{
+  display: grid;
+  grid-template-columns: repeat(3,4fr);
+  padding: 15px 0px;
+  margin-top: 18px;
+}
+.delete-btn{
+  
+  color: rgb(190, 233, 248);
+
+  
+}
